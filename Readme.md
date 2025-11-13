@@ -19,7 +19,16 @@ FR009	Single Layout System	            Stick to one layout technique (Flexbox or
 
 
 PRJ-links:
-https://github.com/jobben-2025/TailwindCSSprj
+
+Github:
+    https://github.com/jobben-2025/TailwindCSSprj
+Github-Pages:
+    https://jobben-2025.github.io/TailwindCSSprj/
+
+Trello:
+    https://trello.com/b/EZ3YxjT6/5-day-prj
+
+
 
 
 
